@@ -1,0 +1,16 @@
+body{
+    height: 200px;
+    width: 500px;
+    background-color: #E1BEE7;
+    color: black;
+    text-align: left;
+    font-size: 15px;
+    text-anchor: middle;
+    letter-spacing: 1px;
+}
+
+p{
+    text-align: center;
+    color: #990033;
+    text-decoration: underline;
+}

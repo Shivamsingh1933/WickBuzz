@@ -1,0 +1,16 @@
+{
+    "name": "WickBuzz",
+    "version": "1.0.0",
+    "description": "Extension for live cricket updates",
+    "manifest_version": 3,
+    "author": "Shivam Singh",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "WickBuzz",
+        "default_icon": "Cricket-14-1 (2).png"
+    },
+    "icons":{
+        "128": "Cricket-14-1 (2).png"
+
+    }
+}
